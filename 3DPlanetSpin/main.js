@@ -5,12 +5,12 @@ import './style.css'
 
 const scene = new THREE.Scene();
 
-const geometry = new THREE.SphereGeometry(3,64, 64)
+const geometry = new THREE.SphereGeometry(2.5,44,23)
 const material = new THREE.MeshStandardMaterial({
   color: "#00ff83",
   roughness:0.2
 })
-const geometryWire = new THREE.SphereGeometry(3.5,64, 64)
+const geometryWire = new THREE.SphereGeometry(2.7,44, 23)
 const materialWire = new THREE.MeshStandardMaterial({
   color: "#00ff83",
   wireframe: true,
@@ -46,7 +46,7 @@ renderer.setPixelRatio(1)
 
 renderer.render(scene, camera)
 
-const spaceBackground = new THREE.TextureLoader().load('space.jpg')
+const spaceBackground = new THREE.TextureLoader().load('space2.jpg')
 scene.background = spaceBackground
 
 const controls = new OrbitControls(camera, canvas)
