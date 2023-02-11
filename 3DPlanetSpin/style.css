@@ -7,3 +7,40 @@
 body, html {
   overflow-x: hidden;
 }
+
+.webgl {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+nav {
+  color: white;
+  z-index: 2;
+  position: relative;
+  padding: 4rem 7rem;
+  display: flex;
+  justify-content: space-between;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+nav ul {
+   list-style: none;
+   display: flex;
+   gap: 4rem;
+}
+
+.title {
+ color: white;
+ z-index: 2;
+ position: absolute;
+ font-size: 4rem;
+ letter-spacing: 4px;
+ left: 50%;
+ top: 55%;
+ transform: translate(-50%, -55%);
+}
