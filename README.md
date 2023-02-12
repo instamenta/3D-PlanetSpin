@@ -1,10 +1,4 @@
 # Space Spin
-```
-Space Spin is my short solo project where you have interactive UI and 3D canvas 
-with a planet surrounded by a wireframed version of the Sphere,
-The Spehere and the wireframe both change colors as well as position when dragged with mouse
-Always slowly spinning
-```
 
 ## Build with: 
 
