@@ -17,7 +17,7 @@ Always slowly spinning
 
 ### Adding 3D elements
 ```
- to your web design is a great way to create a memorable, 
+to your web design is a great way to create a memorable, 
 interactive experience, and with modern no-code web design tools it’s now 
 more accessible than ever before. 
 ```
@@ -25,7 +25,7 @@ more accessible than ever before.
 
 ### 3D modeling
 ```
- is used in various industries like films, animation and gaming, interior
+is used in various industries like films, animation and gaming, interior
 designing and architecture. 3D allows you to create scenes of tremendous realism. 
 And in recent games and films, computer-generated objects are combined with 
 photographic backgrounds to further heighten the illusion. You can see the amazing 
