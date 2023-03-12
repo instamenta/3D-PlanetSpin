@@ -46,7 +46,7 @@ renderer.setPixelRatio(1)
 
 renderer.render(scene, camera)
 
-const spaceBackground = new THREE.TextureLoader().load('./public/space2.jpg')
+const spaceBackground = new THREE.TextureLoader().load('/space2.jpg')
 scene.background = spaceBackground
 
 const controls = new OrbitControls(camera, canvas)
