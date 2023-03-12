@@ -1,7 +1,7 @@
 # Space Spin
 * Best check it out for yourself!
 
-https://space-jam.onrender.com/
+https://planet-spin.onrender.com/
 
 ## Build with: 
 
